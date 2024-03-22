@@ -1,0 +1,7 @@
+
+Ά
+java:S1104"_Make singletonLazyHolder a static final constant or non-public and provide accessors if needed.(μƒ§ά8κµβε1J$a4ba6a64-2663-4bc6-9915-e8425142709d
+|
+java:S1444"9Make this "public static singletonLazyHolder" field final(μƒ§ά8μµβε1J$cde54696-9c30-4798-a989-be4664c5af01
+v
+java:S2440"3Remove this instantiation of "SingletonLazyHolder".(μƒ§ά8‘Κ΅βε1J$113560b1-3f5d-4b7b-8fbc-1b522200cd65

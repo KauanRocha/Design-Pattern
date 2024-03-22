@@ -1,0 +1,8 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(±ÖŸüÿÿÿÿ8øëî£æ1J$ee9c5842-d33b-42d6-9c55-20269dbfc28c
+‡
+java:S1854>"?Remove this useless assignment to local variable "productName".(ÌƒÜùÿÿÿÿ8ıëî£æ1J$05df37ae-ef04-4a3d-ba78-9986128b59c6
+x
+java:S1481>"0Remove this unused "productName" local variable.(ÌƒÜùÿÿÿÿ8ìî£æ1J$4f1e6876-a579-4d77-9f7c-44721ab5ca06
+r	java:S106N"+Replace this use of System.out by a logger.(µ±¶•ÿÿÿÿÿ8‚ìî£æ1J$9c7443bc-ccd0-4b3a-afcf-a0dfdeef57ce
+l	java:S106Q"+Replace this use of System.out by a logger.(ÕÁ#8­êñ£æ1J$97e6c092-7893-40ec-8148-a2a7bfa8e6a5

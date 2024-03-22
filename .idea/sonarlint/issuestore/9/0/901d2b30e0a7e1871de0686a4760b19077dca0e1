@@ -1,0 +1,7 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(ĞÔµö8èò»£æ1J$7bc44a3a-8448-4038-bc8d-2e8426f265be
+…
+java:S11728"=Remove these unused method parameters "description", "price".(›Ì¾Ëûÿÿÿÿ8ïò»£æ1J$b0af6803-4c86-4e98-954d-14f8d373cc44
+r	java:S106P"+Replace this use of System.out by a logger.(åËæÎşÿÿÿÿ8ôò»£æ1J$0df22681-4b3a-4690-85b3-b6461e378adc
+k
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8öò»£æ1J$c247b7ef-30b1-45be-a34f-8ab5130a1587
